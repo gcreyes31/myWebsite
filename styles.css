@@ -31,3 +31,8 @@ body {
     background-color: #121212;
     color: #fefefe;
 }
+
+.adjusted {
+    height: 20%;
+    width: auto;
+}
